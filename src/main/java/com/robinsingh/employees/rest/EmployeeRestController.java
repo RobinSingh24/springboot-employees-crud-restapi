@@ -1,9 +1,7 @@
 package com.robinsingh.employees.rest;
 
-import com.robinsingh.employees.dao.EmployeeDao;
 import com.robinsingh.employees.entity.Employee;
 import com.robinsingh.employees.service.EmployeeService;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
